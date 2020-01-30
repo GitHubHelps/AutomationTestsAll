@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119762" started-at="2019-12-05T15:01:46Z" finished-at="2019-12-05T15:03:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119762" started-at="2019-12-05T15:01:46Z" finished-at="2019-12-05T15:03:46Z">
+      <class name="ReadExcelData.ObjectDataDrivenFromExcel">
+        <test-method status="PASS" signature="browser()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="browser" is-config="true" duration-ms="5879" started-at="2019-12-05T15:01:47Z" finished-at="2019-12-05T15:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="test" duration-ms="63" started-at="2019-12-05T15:01:53Z" data-provider="datatest" finished-at="2019-12-05T15:01:53Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="browser" is-config="true" duration-ms="4538" started-at="2019-12-05T15:01:53Z" finished-at="2019-12-05T15:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="test" duration-ms="7750" started-at="2019-12-05T15:01:57Z" data-provider="datatest" finished-at="2019-12-05T15:02:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alexander]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rachev]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[a.rachev@bullshit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[parola123fe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="browser" is-config="true" duration-ms="5499" started-at="2019-12-05T15:02:05Z" finished-at="2019-12-05T15:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="test" duration-ms="7341" started-at="2019-12-05T15:02:10Z" data-provider="datatest" finished-at="2019-12-05T15:02:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Iva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yanakieva]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[i.yanakiva@bullshit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[321passmass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="browser" is-config="true" duration-ms="4576" started-at="2019-12-05T15:02:18Z" finished-at="2019-12-05T15:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="test" duration-ms="7761" started-at="2019-12-05T15:02:22Z" data-provider="datatest" finished-at="2019-12-05T15:02:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kirkoryan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[a.kirkoryan@bullshit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adminn4f2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="browser" is-config="true" duration-ms="4379" started-at="2019-12-05T15:02:30Z" finished-at="2019-12-05T15:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="test" duration-ms="28026" started-at="2019-12-05T15:02:34Z" data-provider="datatest" finished-at="2019-12-05T15:03:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nadejda]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bulanova]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n.bulanova@bullshit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bullshit5f4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="browser" is-config="true" duration-ms="5065" started-at="2019-12-05T15:03:02Z" finished-at="2019-12-05T15:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="test" duration-ms="30977" started-at="2019-12-05T15:03:08Z" data-provider="datatest" finished-at="2019-12-05T15:03:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Stoyan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Elenkov]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[s.elenkov@bullshit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[selenk3ff45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="browser" is-config="true" duration-ms="4380" started-at="2019-12-05T15:03:39Z" finished-at="2019-12-05T15:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="test" duration-ms="2158" started-at="2019-12-05T15:03:43Z" data-provider="datatest" finished-at="2019-12-05T15:03:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Plamen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Penev]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[p.penev@bullshit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[46kalamar1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:ReadExcelData.ObjectDataDrivenFromExcel@1a8a8f7c]" name="exit" is-config="true" duration-ms="641" started-at="2019-12-05T15:03:45Z" finished-at="2019-12-05T15:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- ReadExcelData.ObjectDataDrivenFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
