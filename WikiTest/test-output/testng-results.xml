@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testNG" duration-ms="31998" started-at="2020-01-27T13:54:01Z" finished-at="2020-01-27T13:54:33Z">
+    <groups>
+    </groups>
+    <test name="Testing testNG" duration-ms="31998" started-at="2020-01-27T13:54:01Z" finished-at="2020-01-27T13:54:33Z">
+      <class name="TestNG.TestNGAssertionAndParameters">
+        <test-method status="PASS" signature="Browser(java.lang.String, java.lang.String)[pri:0, instance:TestNG.TestNGAssertionAndParameters@2752f6e2]" name="Browser" is-config="true" duration-ms="6240" started-at="2020-01-27T15:54:01Z" finished-at="2020-01-27T15:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="getTitle()[pri:0, instance:TestNG.TestNGAssertionAndParameters@2752f6e2]" name="getTitle" duration-ms="18" started-at="2020-01-27T15:54:07Z" finished-at="2020-01-27T15:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:TestNG.TestNGAssertionAndParameters@2752f6e2]" name="exit" is-config="true" duration-ms="1504" started-at="2020-01-27T15:54:07Z" finished-at="2020-01-27T15:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method status="PASS" signature="Browser(java.lang.String, java.lang.String)[pri:0, instance:TestNG.TestNGAssertionAndParameters@2752f6e2]" name="Browser" is-config="true" duration-ms="5456" started-at="2020-01-27T15:54:09Z" finished-at="2020-01-27T15:54:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:TestNG.TestNGAssertionAndParameters@2752f6e2]" name="login" duration-ms="17183" started-at="2020-01-27T15:54:14Z" finished-at="2020-01-27T15:54:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[datageneratortest@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dataup2generator]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:TestNG.TestNGAssertionAndParameters@2752f6e2]" name="exit" is-config="true" duration-ms="1576" started-at="2020-01-27T15:54:31Z" finished-at="2020-01-27T15:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- TestNG.TestNGAssertionAndParameters -->
+    </test> <!-- Testing testNG -->
+  </suite> <!-- testNG -->
+</testng-results>

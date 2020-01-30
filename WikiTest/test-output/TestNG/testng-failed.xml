@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [testNG]">
+  <parameter name="browser" value="Firefox"/>
+  <parameter name="mailid" value="datageneratortest@gmail.com"/>
+  <parameter name="pwd" value="dataup2generator"/>
+  <parameter name="url" value="http://www.google.com"/>
+  <test name="Testing testNG">
+    <parameter name="browser" value="Firefox"/>
+    <parameter name="mailid" value="datageneratortest@gmail.com"/>
+    <parameter name="pwd" value="dataup2generator"/>
+    <parameter name="url" value="http://www.google.com"/>
+    <classes>
+      <class name="TestNG.TestNGAssertionAndParameters"/>
+    </classes>
+  </test> <!-- Testing testNG -->
+</suite> <!-- Failed suite [testNG] -->

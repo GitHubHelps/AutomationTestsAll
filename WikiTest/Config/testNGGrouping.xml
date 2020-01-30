@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG">
+	<test name="Test Grouping New">
+		<groups>
+			<run>
+				<include name="A"></include>
+				<include name="B"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="TestNG.TestGroupingNew">
+			</class>
+			<class name="TestNG.TestGrouping">
+			</class>
+		</classes>
+	</test>
+</suite>
+
+<!-- name of the suit, test and classes need to EXIST! (TestAnnotation.java) -->
